@@ -199,7 +199,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ],
             ),
             /// Counter for left photo
-            Text('Left: $_counter'),
+            Text('Left for loading: $_counter'),
           ],
         ),
       ),
